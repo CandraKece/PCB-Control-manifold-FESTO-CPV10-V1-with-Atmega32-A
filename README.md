@@ -1,3 +1,4 @@
+<img width="1200" height="1600" alt="ebe53847-98ea-4787-a1cb-94a9bce86f9c" src="https://github.com/user-attachments/assets/1649f6ae-dec9-4ca9-88d9-67d771a1ec15" />
 # PCB-Control-manifold-FESTO-CPV10-V1-with-Atmega32-A
 - It integrates multiple solenoid valves and control with PCBs into a single assembly
 - Communication with I2c
